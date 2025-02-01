@@ -5,7 +5,7 @@ from typing import Any
 from discord.ext import commands
 from discord import Message
 
-TOKEN: str = "MTE4NTQxNzkzNzU5OTg2MDc4Nw.G8uce6.4JM5T1RQAZm8WrB0anE2eRWoThLKwJBx50Wurk" # replace w your token
+TOKEN: str = " # replace w your token
 API_BASE_URL: str = "https://discord.com/api/v9"
 
 headers = {
